@@ -1,0 +1,8 @@
+{
+  "name": "X-Fire Social",
+  "description": "A high-performance social media platform featuring personalized profiles, media galleries, AI-powered search, and secure account management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
